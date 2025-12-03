@@ -1,16 +1,75 @@
-# basicflutter
+📇 Profile Card App – Flutter
 
-A new Flutter project.
+A simple and clean Profile Card App built using Flutter layouts.
+This project helped me practice fundamental Flutter widgets such as:
 
-## Getting Started
+- Container
 
-This project is a starting point for a Flutter application.
+- Column and Row
 
-A few resources to get you started if this is your first Flutter project:
+- Padding and SizedBox
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Center and CircleAvatar
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- AppBar, Text, and Buttons
+
+🚀 Features
+
+Custom Profile Card UI
+
+Clean and modern layout design
+
+🎨 Custom colors and text styles
+
+Responsive alignment using Row & Column
+
+Includes profile stats like:
+
+Projects
+
+Followers
+
+Following
+
+📸 Preview
+
+<img width="658" height="1080" alt="Screenshot (273)" src="https://github.com/user-attachments/assets/a491a9aa-eb29-4df6-9051-d1ec40bb923e" />
+
+
+🛠️ Tech Used
+Technology	Purpose
+Flutter	UI Framework
+Dart	Programming Language
+Material Design	UI Components
+📂 Project Structure
+lib/
+ └── main.dart
+assets/
+ └── profile.jpg
+
+📦 How to Run
+
+Clone or download the project
+
+Install dependencies
+
+flutter pub get
+
+
+Run on emulator/mobile
+
+flutter run
+
+✨ Future Improvements
+
+Add animations and themes
+
+Add navigation to other profile pages
+
+Store real user profile info
+
+👤 Author
+
+Tanmay Chhipa
+Flutter Developer
+💙 Passionate about mobile app development, coding & creativity
